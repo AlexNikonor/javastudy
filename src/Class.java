@@ -13,7 +13,7 @@ public class Class {
             System.out.println("вечер");
         else
             System.out.println("ночь");
-        //
+
     }
 }
 
